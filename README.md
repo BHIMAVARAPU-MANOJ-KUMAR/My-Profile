@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MANOJ KUMAR BHIMAVARAPU
 ===============================================================================================================================================
 
-I'M a Trained and Certified Java FullStack Software Engineer
+I'm a Trained and Certified Java FullStack Software Engineer From StackRoute NIIT
 ------------------------------------------------------------
 
 * 🌍  I'm based in Vijayawada, Andhra Pradesh, 522501, India
