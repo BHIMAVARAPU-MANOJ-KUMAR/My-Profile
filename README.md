@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Trained and Certified Java FullStack Software Engineer From StackRoute NIIT
 ---------------------------------------------------------------------------------
 
-* 🌍  I'm based in I'm based in Vijayawada, Andhra Pradesh, 522501, India
+* 🌍  I'm based in Vijayawada, Andhra Pradesh, 522501, India
 * 🖥️  See my portfolio at [My Profile](http://bhimavarapu-manoj-kumar.github.io/My-Profile/)
 * ✉️  You can contact me at [manojbh1999@gmail.com](mailto:manojbh1999@gmail.com)
 * ✉️  You can contact me at +91 9010917345
